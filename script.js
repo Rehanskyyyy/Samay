@@ -27,8 +27,8 @@ function updateClock() {
     let minutes = now.getMinutes();
     let seconds = now.getSeconds();
 
-    if (hours === 12) {
-        hours = 13;
+    if (hours === 13) {
+        hours = 1;
     }
 
     if (hours < 10) {
