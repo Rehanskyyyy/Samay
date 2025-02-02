@@ -18,4 +18,4 @@
 
 ## Demo
 
-- link
+- https://rehanskyyyy.github.io/Samay/
