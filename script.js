@@ -50,6 +50,7 @@ function changebackground(hours){
     }
     else{
         document.body.style.backgroundColor = "rgb(52, 128, 204)"
+        document.body.style.transition = "all 3s ease"
     }
 }
 
